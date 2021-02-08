@@ -215,6 +215,10 @@ td.expense {
     color: #e92929;
 }
 
+td img {
+  cursor: pointer;
+}
+
 /* FOOTER ============================ */
   .modal-overlay {
     width: 100%;
